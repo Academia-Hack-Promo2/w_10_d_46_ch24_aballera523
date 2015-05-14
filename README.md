@@ -6,3 +6,5 @@ Ud. ha sido elegido para desarrollar una pequeña aplicación WEB que simule est
 
 La aplicación es mono jugador (es decir 1 jugador, contra la APP).
 
+Realizado con Jonathan y John en clases
+
